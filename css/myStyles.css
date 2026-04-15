@@ -1,0 +1,20 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    color: black;
+}
+
+.section {
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+.title {
+    color: darkblue;
+    font-size: 28px;
+}
+
+.highlight {
+    color: red;
+}
